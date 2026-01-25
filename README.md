@@ -57,7 +57,7 @@ If you want to **modify the code, change parameters permanently, or keep your wo
 
 | Resource | Description | Run |
 |--------|-------------|-----|
-| Link latency distribution model | Interactive simulator of the Cao formula for P99 / P99.9 delay estimation. Helps students to understand multiplexing gain concepts, link utilization impact in latencies (not average, but percentile latencies, used in practical use cases)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USER/YOUR_REPO/blob/main/Planificacion_Gestion_Redes/cao_latency_best_effort.ipynb) |
+| Link latency distribution model | Interactive simulator of the Cao formula for P99 / P99.9 delay estimation. Helps students to understand multiplexing gain concepts, link utilization impact in latencies (not average, but percentile latencies, used in practical use cases)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ppavon/teaching-materials/blob/main/notebooks/cao-latency/cao-latency-model.ipynb) |
 
 
 ---
