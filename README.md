@@ -57,26 +57,12 @@ If you want to **modify the code, change parameters permanently, or keep your wo
 
 | Resource | Description | Run |
 |--------|-------------|-----|
-| Cao latency (best-effort) | Interactive simulator of the Cao formula for P99 / P99.9 delay estimation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USER/YOUR_REPO/blob/main/Planificacion_Gestion_Redes/cao_latency_best_effort.ipynb) |
+| Link latency distribution model | Interactive simulator of the Cao formula for P99 / P99.9 delay estimation. Helps students to understand multiplexing gain concepts, link utilization impact in latencies (not average, but percentile latencies, used in practical use cases)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USER/YOUR_REPO/blob/main/Planificacion_Gestion_Redes/cao_latency_best_effort.ipynb) |
 
 
 ---
 
-## 📘 Network Operation and Engineering
 
-| Resource | Description | Run |
-|--------|-------------|-----|
-| Traffic forecasting | Examples of traffic forecasting techniques | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USER/YOUR_REPO/blob/main/Operacion_Ingenieria_Red/traffic_forecasting.ipynb) |
-
----
-
-## 📘 Heuristics and Optimization
-
-| Resource | Description | Run |
-|--------|-------------|-----|
-| Greedy vs Simulated Annealing | Comparison of heuristic optimization algorithms | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USER/YOUR_REPO/blob/main/Heuristicas_Optimizacion/greedy_vs_sa.ipynb) |
-
----
 
 ## 🧠 Notes for students
 
